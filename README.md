@@ -7,7 +7,6 @@ The analysis determined that campaigns launched in late spring through summer we
 
 The data on successful campaigns by goal provides additional insight on the types of successful play campaigns. First, 20% of campaigns sought less than $1000 and 56% of campaigns had aimed at more than $1000 and less than $5000. The success rates for both were around three-quarters, but beyond that the success rates drop to around half before success rates in aggregate dip below 50% for projects seeking $25,000 or more. 
 
-Challenges
 In regard to challenges, I was able to conduct the analysis per the instruction given in the Module 1 Challenge and found no difficulties that prevented successful completion of the task. The COUNTSIF function was a little tricky in that I had to experiment with finding the correct way to express two financial criteria per range for all but the highest and lowest rows (Row 2 and Row 13).
 ## Results
 As suggested above, the best time to launch a play-focused Kickstarter campaign is from May to July. The worst time to launch such a campaign is in November to December. However, a key limitation of this data is that it does not distinguish on setting or venue of play; outdoor productions might be overrepresented in the successful launches. Additionally, the end of the year is when many individuals make charitable contributions for tax purposes, limiting the money they have available for other, non-charitable purposes.
