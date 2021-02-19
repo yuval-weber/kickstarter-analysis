@@ -7,7 +7,7 @@ The analysis determined that campaigns launched in late spring through summer we
 
 The data on successful campaigns by goal provides additional insight on the types of successful play campaigns. First, 20% of campaigns sought less than $1000 and 56% of campaigns had aimed at more than $1000 and less than $5000. The success rates for both were around three-quarters, but beyond that the success rates drop to around half before success rates in aggregate dip below 50% for projects seeking $25,000 or more.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78886925/108563650-c68f2a00-72cf-11eb-9320-261c649e678a.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78886925/108564675-7dd87080-72d1-11eb-823d-828db05462e9.png)
 
 In regard to challenges, I was able to conduct the analysis per the instruction given in the Module 1 Challenge and found no difficulties that prevented successful completion of the task. The COUNTSIF function was a little tricky in that I had to experiment with finding the correct way to express two financial criteria per range for all but the highest and lowest rows (Row 2 and Row 13).
 ## Results
